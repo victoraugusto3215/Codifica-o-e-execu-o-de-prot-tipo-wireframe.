@@ -1,0 +1,69 @@
+body
+{
+    background-color: #3B9133;
+    margin: 0 auto;
+}
+
+img {
+margin: 0 auto;
+height: 9%;
+}
+
+.logo
+{
+    float: left;
+    padding-top: 5px;
+    padding-left: 25px;
+}
+
+na {margin: 0 auto;
+text-align: right;}
+
+a {display: inline-block;
+    padding: 15px;
+margin: 20px;
+color: #000;
+text-decoration: none;
+font-family: Roboto;
+position: center;
+font-size: 30px;
+padding-left: 23px;
+}
+
+
+nav
+{
+    background-color: #ffff;
+}
+
+.banner
+{
+    width: 1440px;
+    height: 667px;
+   position: center;
+   padding-top:  55px;
+}
+
+.veja
+{
+    border: none;
+    background-color: #EB773D;
+    color: #fff;
+    width: 324px;
+    height: 60px;
+    font-size: 30px;
+    font-family: Roboto;
+    position: center;
+}
+
+.proximo
+{
+    float: right;
+    margin-top: 12px;
+    margin-right: 14px;
+}
+
+.botaoproximo
+{
+    float: right;
+}
